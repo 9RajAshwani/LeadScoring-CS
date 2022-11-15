@@ -1,2 +1,2 @@
-# LeadScoring-CS
-Lead Scoring Case Study
+# Lead Scoring-Case Study
+
